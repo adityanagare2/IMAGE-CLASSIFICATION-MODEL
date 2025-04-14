@@ -86,11 +86,13 @@ PyCharm / VS Code: For a more structured development experience.
 
 Kaggle Kernels: If you want to share your work and use free GPUs.
 
- ## OUTPUT
+ 
+Real-world apps: Once trained, you can deploy the model using TensorFlow Lite for mobile devices or use Flask/Django to serve it on the web.
+
+## This project is a great introduction to deep learning with CNNs and TensorFlow. It shows how a simple neural network can be trained to understand and classify images — something that our brains do automatically, but machines must learn from scratch. By exploring and tweaking this model, you can build the foundation to create more advanced computer vision systems in the future.
+
+## OUTPUT
 
  ![Image](https://github.com/user-attachments/assets/e44586c9-7391-4667-9cea-cf888dddbad9)
 
 ![Image](https://github.com/user-attachments/assets/ed5dba32-0dd0-4187-a86c-447973a83106)
-Real-world apps: Once trained, you can deploy the model using TensorFlow Lite for mobile devices or use Flask/Django to serve it on the web.
-
-## This project is a great introduction to deep learning with CNNs and TensorFlow. It shows how a simple neural network can be trained to understand and classify images — something that our brains do automatically, but machines must learn from scratch. By exploring and tweaking this model, you can build the foundation to create more advanced computer vision systems in the future.
